@@ -159,7 +159,7 @@ for i in la:
 for i in same:
     if a%i==0 and b% i==0:
         gcd=i
-# print(f"The GCD is {gcd}")
+print(f"The GCD is {gcd}")
        
 
 #15. Find the LCM of two numbers

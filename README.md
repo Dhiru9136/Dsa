@@ -143,6 +143,11 @@ programming
 r = 2
 
 30	Check whether a string contains only digits
+123456
+Only digits
+123a45
+Not only digits
+
 Part 3 — Arrays / Lists
 #	Question
 31	Find the largest element in an array
