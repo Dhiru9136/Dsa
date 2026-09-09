@@ -1,4 +1,5 @@
 Part 1 — Basic Logic & Problem Solving
+
 1.Print numbers from 1 to N
 12345678
 
@@ -74,19 +75,73 @@ LCM = 36
 Part 2 — Strings
 #	Question
 16	Reverse a string
+olleh
+
 17	Check whether a string is palindrome
+madam
+
 18	Count vowels and consonants in a string
+HELLO
+vowels = 2
+consonants = 3
 19	Count the frequency of each character
+HELLO
+h → 1
+e → 1
+l → 2
+o → 1
 20	Find the first non-repeating character
+{'h': 1, 'e': 1, 'l': 2, 'o': 1}
+h 1
+e 1
+o 1
+
 21	Find the first repeating character
+char = "abcaade"
+a
+
 22	Remove all spaces from a string
+char= "         first repeating character guarantee      "
+firstrepeatingcharacterguarantee
+
+
 23	Remove duplicate characters from a string
+programming
+
+
+{'g', 'r', 'p', 'm', 'n', 'i', 'a', 'o'}
+progamin
+
+
 24	Check whether two strings are anagrams
+
+listen
+silent
+
+Anagram
+
+
 25	Count the number of words in a string
+char  = "I love Python programming"
+4
+
 26	Find the longest word in a sentence
+char  = "I love Python programming"
+programming
+
 27	Find the shortest word in a sentence
+char  = "I love Python programming"
+I
+
 28	Convert lowercase characters to uppercase without using .upper()
+
+char  = "i love python programming"
+I LOVE PYTHON PROGRAMMING
+
 29	Find the character with maximum frequency
+programming
+r = 2
+
 30	Check whether a string contains only digits
 Part 3 — Arrays / Lists
 #	Question
