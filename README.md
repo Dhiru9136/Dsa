@@ -151,15 +151,48 @@ Not only digits
 Part 3 — Arrays / Lists
 #	Question
 31	Find the largest element in an array
+nums = [10, 25, 7, 40, 15]
+40
+
 32	Find the smallest element in an array
+nums = [10, 25, 7, 40, 15] 
+7
+
 33	Find the sum of all elements
+nums = [10, 25, 7, 40, 15] 
+97
+
 34	Find the average of array elements
+nums = [10, 25, 7, 40, 15] 
+19.4
+
 35	Count even and odd numbers
+nums = [10, 25, 7, 40, 15] 
+Total Even Number is = 2
+Total Odd Number is = 3
 36	Reverse an array
+nums = [10, 25, 7, 40, 15]
+[15, 40, 7, 25, 10]
+
 37	Find the second largest element
+nums = [10, 25, 7, 40, 15]
+25
+
+
 38	Find the second smallest element
+nums = [10, 25, 7, 40, 15]
+10
+
 39	Remove duplicates from an array
+nums = [10, 25, 7, 40, 15, 10, 15]
+[7, 40, 10, 15, 25]
+
 40	Find the frequency of each element
+
+nums = [10, 25, 7, 40, 15, 10, 15]
+{10: 2, 25: 1, 7: 1, 40: 1, 15: 2}
+
+
 41	Check whether an array is sorted
 42	Find the missing number from 1 to N
 43	Find the duplicate number
