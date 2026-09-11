@@ -194,9 +194,21 @@ nums = [10, 25, 7, 40, 15, 10, 15]
 
 
 41	Check whether an array is sorted
+not sorted = [10, 20, 30, 40, 5]
+
 42	Find the missing number from 1 to N
+nums = [2,3,4,5]
+N = 5
+1
 43	Find the duplicate number
+
+nums = [10, 25, 7, 40, 15, 10, 15]
+duplicate= 10
+duplicate= 15
+
 44	Move all zeroes to the end
+<!-- # nums = [0, 1, 0, 3, 12] -->
+[1, 3, 12, 0, 0]
 45	Move all negative numbers to one side
 46	Find the intersection of two arrays
 47	Find the union of two arrays
