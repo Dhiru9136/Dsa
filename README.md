@@ -216,6 +216,11 @@ nums = [1, -2, 3, -4, 5, -6]
 
 
 46	Find the intersection of two arrays
+arr1 = [1, 2, 2, 3, 4]
+arr2 = [2, 2, 4, 6]
+
+Intersection = [2, 2, 4]
+
 47	Find the union of two arrays
 48	Find all pairs whose sum equals a target
 49	Find the maximum difference between two elements

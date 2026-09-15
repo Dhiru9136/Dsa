@@ -161,3 +161,17 @@ for i in nums:
         negative.append(i)
 postive.extend(negative)
 print(f"{postive}")
+
+
+# 46	Find the intersection of two arrays
+
+arr1 = [1, 2, 2, 3, 4]
+arr2 = [2, 2, 4, 6]
+
+result = []
+
+for i in arr1:
+    if i in arr2:
+        result.append(i)
+print(result)
+
