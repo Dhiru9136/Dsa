@@ -228,11 +228,17 @@ arr2 = [2, 4, 5, 6]
 Union = [1, 2, 3, 4, 5, 6]
 
 48	Find all pairs whose sum equals a target
+arr = [2, 4, 3, 5, 7, 8, 1]
+target = 9
+
 49	Find the maximum difference between two elements
 50	Find the maximum subarray sum
 Part 4 — Hashing
 #	Question
 51	Find the frequency of elements using a dictionary
+arr = [2, 4, 2, 5, 4, 2, 7]
+{2: 3, 4: 2, 5: 1, 7: 1}
+
 52	Find the first element that appears only once
 53	Find duplicate elements in an array
 54	Find elements that appear more than once
