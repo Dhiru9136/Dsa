@@ -240,6 +240,9 @@ arr = [2, 4, 2, 5, 4, 2, 7]
 {2: 3, 4: 2, 5: 1, 7: 1}
 
 52	Find the first element that appears only once
+arr = [2, 4, 2, 5, 4, 2, 7]
+5
+
 53	Find duplicate elements in an array
 54	Find elements that appear more than once
 55	Find two numbers whose sum equals a target
